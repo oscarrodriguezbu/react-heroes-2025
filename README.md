@@ -1,4 +1,4 @@
-#11-13-react-heroes-fin-seccion-16
+# 11-13-react-heroes-fin-seccion-16
 
 It's been a while since I've worked with React, so this is a review and study of the new features in the latest versions.
 
